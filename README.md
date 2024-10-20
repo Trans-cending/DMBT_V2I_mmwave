@@ -53,7 +53,7 @@ cd path\to\your\Model_beam_64
 python test_main.py
 ```
 
-The results will be recorded in 'Error_correction_comparation_mm' and 'Error_correction_comparation_loc'.
+The results will be recorded in 'Error_correction_comparison_mm' and 'Error_correction_comparison_loc'.
 
 ## License
 
